@@ -1,0 +1,26 @@
+body {
+  background: black;
+}
+
+div.title {
+  box-sizing: border-box;
+  background: white;
+  padding: 2rem;
+}
+
+div.image {
+  box-sizing: border-box;
+  background: gray;
+}
+
+div.buttons {
+  box-sizing: border-box;
+  background: white;
+  padding: 2rem;
+}
+
+div.likes {
+  box-sizing: border-box;
+  background: white;
+  padding: 2rem;
+}
